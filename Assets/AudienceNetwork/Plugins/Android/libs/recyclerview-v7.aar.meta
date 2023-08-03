@@ -1,0 +1,31 @@
+fileFormatVersion: &1144234898 2
+guid: bc4c80c41446c4ceba269436073ae745
+timeCreated: 1531986671
+licenseType: Pro
+PluginImporter:
+  externalObjects: &2139953378 {}
+  serializedVersion: 2
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: &1202065301 0
+  isOverridable: 0
+  platformData:
+  - &927415465 first:
+      &1656641350 Android: Android
+    &1393538565 second:
+      &1767949215 enabled: 1
+      &1584718238 settings: {}
+  - first:
+      Any: &375742551 ''
+    second:
+      enabled: 0
+      settings: {}
+  - first:
+      &1467826845 Editor: Editor
+    second:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+  userData: ''
+  assetBundleName: ''
+  assetBundleVariant: ''
